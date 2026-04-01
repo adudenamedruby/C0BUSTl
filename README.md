@@ -281,21 +281,15 @@ Changes are discouraged.
 
 ---
 
-## Appendix A: Sample Compiler Output
+## Appendix A: Bechmarks
 
-```
-Compiling...
+<img width="1066" height="523" alt="Screenshot 2026-04-01 at 10 46 22" src="https://github.com/user-attachments/assets/b215cdd5-d200-4dc6-b97d-726309c49a8d" />
 
-Status: In Progress
-Status: Under Review
-Status: Pending Feedback
-Status: Deferred
-Status: Reopened
-Status: Blocked
-Status: Escalated
+<img width="1065" height="310" alt="Screenshot 2026-04-01 at 10 46 57" src="https://github.com/user-attachments/assets/ceaa7a5d-26aa-4476-a2c8-fe679b1cd0a5" />
 
-Build failed successfully.
-```
+<img width="1065" height="823" alt="Screenshot 2026-04-01 at 10 47 13" src="https://github.com/user-attachments/assets/487a411e-4f2e-4a9b-83fe-497428c26038" />
+
+<img width="1063" height="632" alt="Screenshot 2026-04-01 at 10 47 36" src="https://github.com/user-attachments/assets/46927261-76a8-4074-a382-c839c72e46cd" />
 
 ---
 
