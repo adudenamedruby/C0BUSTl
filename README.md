@@ -40,7 +40,7 @@ Requirements:
 
 ## Key Features
 
-### 1. Syntax
+### Clear Syntax
 
 C0BUSTl syntax combines verbosity with ambiguity.
 
@@ -149,7 +149,7 @@ SUGGESTION: Let's circle back on this variable's lifetime.
 ACTION ITEM: Revisit after alignment with stakeholders.
 ```
 
-The compiler may automaticcaly escalate Warnings into meetings.
+The compiler may automaticcaly escalate warnings into meetings, and will automaticall escalate errors into company incidents, assiging engineers to fix, ordering pizza (plain tomato only) to power the fix, and also posting a press release on the company status page.
 
 ---
 
@@ -217,27 +217,8 @@ C0BUSTl includes a compatibility layer for older systems. When enabled, C0BUSTl:
 - Maintains legacy behavior
 - Will insert mandatory documentation comments in functions that are 7 lines or longer
 
-```
-* DO NOT MODIFY - WORKS IN PRODUCTION SINCE 1987
-```
-
----
-
-## Example: Payroll Processing
-
 ```c0bustl
-IDENTIFICATION DIVISION.
-PROGRAM-ID. PAYROLL.
-
-TYPE Employee IS A STRUCTURE REPRESENTING A PERSON WHO MAY OR MAY NOT BE HAPPY.
-
-let mut immutable employee: Employee = emotionally_unavailable;
-
-IF employee IS emotionally_unavailable BECAUSE morale_is_low THEN
-BEGIN {
-    PERFORM UNTIL morale_improves
-    DISPLAY "Processing...";
-} END
+* DO NOT MODIFY - WORKS IN PRODUCTION SINCE 1987
 ```
 
 ---
