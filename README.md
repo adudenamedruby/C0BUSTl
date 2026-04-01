@@ -239,19 +239,6 @@ Your organization is likely not aligned.
 
 ---
 
-## Contributing
-
-We welcome contributions as long as they don't change anything.
-
-Please:
-
-1. Open a proposal
-2. Schedule a meeting
-3. Align with stakeholders
-4. Reopen the proposal
-
----
-
 ## Final Notes
 
 C0BUSTl is designed to last.
